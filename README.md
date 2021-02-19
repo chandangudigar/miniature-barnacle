@@ -8,3 +8,5 @@ hello
 hnne
 hdggd
 nnhhshshsh
+
+npm start
