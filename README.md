@@ -1,8 +1,8 @@
 # miniature-barnacle
 
-## chandan 
+## margin 
 ```
-barnacle project
+margin : auto
 ```
 
 
